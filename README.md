@@ -1,1 +1,2 @@
-# classify-rock-mines-using-knn
+# Classify Rock or Mines using KNearest Neighbors
+
