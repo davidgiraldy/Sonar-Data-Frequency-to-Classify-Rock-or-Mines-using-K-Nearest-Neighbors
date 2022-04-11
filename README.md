@@ -1,1 +1,1 @@
-# Sonar Data Frequency to Detect Rock or Mines using K Nearest Neighbors
+# Sonar Data Frequency to Classify Rock or Mines using K Nearest Neighbors
